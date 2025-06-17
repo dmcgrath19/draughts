@@ -1,0 +1,9 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "__config": "cpp",
+        "tuple": "cpp"
+    }
+}
