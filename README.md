@@ -55,8 +55,8 @@ Detect pieces on each square using known corner locations and classify them by c
 
 ### Results
 
-| Bad Detection | Improved Detection |
-|---------------|--------------------|
+| Bad Detection & Improved Detection |
+|-----------------------------------|
 | ![](/pictures/SampleImages/Bad-v-Good-piece-detection.png) |
 
 - **Accuracy:** 97% on static images  
