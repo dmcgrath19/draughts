@@ -105,13 +105,14 @@ Detect valid move frames and classify moves over time from a draughts video.
 | Hough Lines |
 |---------------|
 | ![](/pictures/HoughLines.png) |
+
 | Line Segments |
 |---------------|
 | ![](/pictures/LineSegments.png)|
 
 | findChessboardCorners |
 |------------------------|
-| ![](/pictures/findChessboardCorners.png) |
+| ![](/pictures/FindChessboardCorners.png) |
 
 ### Remarks
 - Combining Hough + contour filtering could improve corner detection
