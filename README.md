@@ -1,5 +1,4 @@
 # Computer Vision - Draughts Video and Image Processing  
-### Recovered from a 2022 project
 ## Overview
 This project implements a system to automatically analyze a game of draughts (checkers), across five parts. It includes pixel classification, piece detection, video processing, corner detection, and King piece classification.
 
